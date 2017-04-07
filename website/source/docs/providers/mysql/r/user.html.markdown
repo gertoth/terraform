@@ -13,7 +13,7 @@ server.
 
 ## Example Usage
 
-```
+```hcl
 resource "mysql_user" "jdoe" {
   user     = "jdoe"
   host     = "example.com"
